@@ -495,4 +495,17 @@ body,ul,a,li,p,h2,h3,h1,h4{
     text-align: center;
     margin-left: 30px;
 }
+#uc-login .login-info .yu{
+    width: 300px;
+    height: 35px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+#uc-login .login-info .yan{
+    width: 150px;
+    height: 35px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
 
